@@ -44,7 +44,7 @@ This project is a starting point for a Flutter application.
 •	UserAccountDrawerHeader
 •	Padding
 
-## SCcreenshots of the application:
+## Screenshots of the application:
 ![Home Tab](https://user-images.githubusercontent.com/80881902/153222600-c9c263ed-79a3-446e-ad5a-437cec49b9ab.png)
 ![Favourite Tab](https://user-images.githubusercontent.com/80881902/153222745-459a37e4-1bbf-41b0-ba17-0091411ed783.png)
 ![Profile Tab](https://user-images.githubusercontent.com/80881902/153222778-8529d5c7-d460-4dbd-a570-64744724a059.png)
