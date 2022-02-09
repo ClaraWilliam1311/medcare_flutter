@@ -20,31 +20,55 @@ This project is a starting point for a Flutter application.
 5.	About us
 
 •	Page of departments contains the medical fields (Physical Therapy Department,Dentist Department,Internal Medicine Department,Surgery Department,Pediatric Department)
+
 •	Pages for each department contain names for the best doctors.
+
 •	Page of hospitals contain the hospitals in Egypt, its addresses and its phone numbers.
+
 •	Page of chronic diseases.
+
 •	About us page.
+
 
 ## Flutter Widgets that i've used:
 •	StateFullWidget
+
 •	StateLessWidget
+
 •	Container
+
 •	AppBar
+
 •	Scaffold
+
 •	GridView
+
 •	InkWell
+
 •	ListView
+
 •	Card
+
 •	ListTile
+
 •	Drawer
+
 •	Icon
+
 •	Text
+
 •	DefaultTabController
+
 •	BottomNavigationBar
+
 •	TabBarView
+
 •	MaterialPageRoute
+
 •	UserAccountDrawerHeader
+
 •	Padding
+
 
 ## Screenshots of the application:
 ![Home Tab](https://user-images.githubusercontent.com/80881902/153222600-c9c263ed-79a3-446e-ad5a-437cec49b9ab.png)
