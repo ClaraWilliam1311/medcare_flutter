@@ -18,6 +18,7 @@ This project is a starting point for a Flutter application.
 3.	Diseases
 4.	Settings
 5.	About us
+
 •	Page of departments contains the medical fields (Physical Therapy Department,Dentist Department,Internal Medicine Department,Surgery Department,Pediatric Department)
 •	Pages for each department contain names for the best doctors.
 •	Page of hospitals contain the hospitals in Egypt, its addresses and its phone numbers.
