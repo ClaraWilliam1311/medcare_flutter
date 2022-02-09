@@ -11,6 +11,7 @@ This project is a starting point for a Flutter application.
 1.	Home
 2.	Favorites
 3.	Profile
+
 •	Menu in the app bar contains
 1.	Departments
 2.	Hospitals
